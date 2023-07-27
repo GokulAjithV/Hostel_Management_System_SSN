@@ -1,6 +1,8 @@
 # Hostel_Management_System_SSN
 This is hostel management system for ssn college of engineering . This website is specially made for getting outpass approval from the warden without visiting them directly. And the hostel students can raise their complaints and queries to the warden.
 
+[Software Project Report'22.pdf](https://github.com/GokulAjithV/Hostel_Management_System_SSN/files/12182263/Software.Project.Report.22.pdf)
+
 
 ![hostel](https://github.com/GokulAjithV/Hostel_Management_System_SSN/assets/96762110/a7b28bbb-8f3a-422d-942e-194d1c8121b5)
 
