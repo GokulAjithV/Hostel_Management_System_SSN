@@ -17,7 +17,8 @@ This is hostel management system for ssn college of engineering . This website i
 ![Screenshot 2023-07-26 222409](https://github.com/GokulAjithV/Hostel_Management_System_SSN/assets/96762110/6043cc05-4011-4ccb-b221-f2606859fd11)
 
 
-![Screenshot 2023-07-26 222444](https://github.com/GokulAjithV/Hostel_Management_System_SSN/assets/96762110/4c1bb306-9f7f-4646-981b-27f0ee009e72)
+![Screenshot 2023-07-26 222512](https://github.com/GokulAjithV/Hostel_Management_System_SSN/assets/96762110/ebba40e3-58f8-437c-b091-87a1c20ad0d5)
+
 
 
 
